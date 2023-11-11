@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce38874f-58d0-4c74-a75c-e3705e121265" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/.project" beforeDir="false" afterPath="$PROJECT_DIR$/Bolsa-Valores-em-Java/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/registros/Empresas.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/registros/HistoricoOrdens.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/registros/Investidores.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Bolsa-Valores-em-Java/registros/Investidores.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/constantes/LocaisArquivoTexto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/AbstratoAcao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/AbstratoPapel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/AcaoFII.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/AcaoMercado.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/CarteiraDeAcoes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/Corretora.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/Empresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/Investidor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/modelo/TipoAcaoEmpresa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/util/AlgoritmosOrdenacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/util/ArvoreBinaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/util/Fila.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/util/Pilha.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bolsa-Valores-em-Java/src/util/Vetor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Bolsa-Valores-em-Java" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2Y0cbly3T4E8IQU5wjrmO5oYX6j" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/arthu/Downloads/Bolsa-Valores-em-JavaOFC"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce38874f-58d0-4c74-a75c-e3705e121265" name="Changes" comment="" />
+      <created>1699666010516</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699666010516</updated>
+    </task>
+    <servers />
+  </component>
+</project>
